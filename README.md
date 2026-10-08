@@ -7,8 +7,8 @@ Student Asshley Dean Wayne B. Gozar - INF233
 
 ## Live Links
 
-- Website (Vercel): (add after Step 52)
-- API (Render): (add after Step 41)
+- Website (Vercel): https://showcase-project-gozar-inf233.vercel.app
+- API (Render): https://showcase-project-gozar-inf233.onrender.com
 
 ## Tech Stack
 
